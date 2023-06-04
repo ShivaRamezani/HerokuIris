@@ -1,4 +1,5 @@
 appdirs==1.4.4
+Bottleneck @ file:///work/ci_py311/bottleneck_1676827011612/work
 brotlipy==0.7.0
 certifi @ file:///croot/certifi_1683875369620/work/certifi
 cffi @ file:///work/ci_py311/cffi_1676822533496/work
